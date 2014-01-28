@@ -1,12 +1,12 @@
 [ {
   "id" : "org.cutjs.row",
-  "name" : "Row, Dynamic",
+  "name" : "Row",
   "index" : "http://piqnt.github.io/cut.js/examples/row/",
   "source" : "https://github.com/piqnt/cut.js/tree/examples/row-dynamic/",
   "tags" : "row tween"
 }, {
   "id" : "org.cutjs.row-fix",
-  "name" : "Row, Static",
+  "name" : "Row, Fixed",
   "index" : "http://piqnt.github.io/cut.js/examples/row-fix/",
   "source" : "https://github.com/piqnt/cut.js/tree/examples/row-static/",
   "tags" : "row tween"
