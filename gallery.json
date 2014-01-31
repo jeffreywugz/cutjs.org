@@ -2,45 +2,72 @@
   "id" : "org.cutjs.row",
   "name" : "Row",
   "index" : "http://piqnt.github.io/cutjs/examples/basic-row/",
-  "tags" : "row tween"
+  "tags" : "row tween",
+  "type" : "example"
 }, {
   "id" : "org.cutjs.row-fix",
   "name" : "Row, Fixed",
   "index" : "http://piqnt.github.io/cutjs/examples/basic-row-fix/",
-  "tags" : "row tween"
+  "tags" : "row tween",
+  "type" : "example"
 }, {
   "id" : "org.cutjs.grid",
   "name" : "Column x Row",
   "index" : "http://piqnt.github.io/cutjs/examples/basic-grid/",
-  "tags" : "row column tween"
+  "tags" : "row column tween",
+  "type" : "example"
 }, {
   "id" : "org.cutjs.number",
   "name" : "Number",
   "index" : "http://piqnt.github.io/cutjs/examples/basic-number/",
-  "tags" : "string image box"
+  "tags" : "string image box",
+  "type" : "example"
 }, {
   "id" : "org.cutjs.tile",
   "name" : "Tile",
   "index" : "http://piqnt.github.io/cutjs/examples/basic-tile/",
-  "tags" : "image tween"
+  "tags" : "image tween",
+  "type" : "example"
 }, {
   "id" : "org.cutjs.stretch",
   "name" : "Stretch",
   "index" : "http://piqnt.github.io/cutjs/examples/basic-stretch/",
-  "tags" : "image tween"
+  "tags" : "image tween",
+  "type" : "example"
 }, {
   "id" : "org.cutjs.bars",
   "name" : "Bars",
   "index" : "http://piqnt.github.io/cutjs/examples/basic-bars/",
-  "tags" : "image tween"
+  "tags" : "image tween",
+  "type" : "example"
 }, {
   "id" : "org.cutjs.p2js-asteroids",
   "name" : "P2.js Asteroids",
   "index" : "http://piqnt.github.io/cutjs/examples/p2js-asteroids/",
-  "tags" : "game physics p2.js"
+  "tags" : "game physics p2.js",
+  "type" : "example"
 }, {
   "id" : "org.cutjs.p2js-suspension",
   "name" : "P2.js Suspension",
   "index" : "http://piqnt.github.io/cutjs/examples/p2js-suspension/",
-  "tags" : "game physics p2.js"
+  "tags" : "game physics p2.js",
+  "type" : "example"
+}, {
+  "id" : "com.piqnt.o",
+  "name" : "O! +Source",
+  "index" : "http://piqnt.com/o/",
+  "tags" : "game",
+  "type" : "project"
+}, {
+  "id" : "com.piqnt.hex",
+  "name" : "006",
+  "index" : "http://piqnt.com/006/",
+  "tags" : "game",
+  "type" : "project"
+}, {
+  "id" : "com.piqnt.four",
+  "name" : "Four",
+  "index" : "http://piqnt.com/4/four/",
+  "tags" : "game",
+  "type" : "project"
 } ]
