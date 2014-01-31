@@ -34,8 +34,13 @@
   "index" : "http://piqnt.github.io/cutjs/examples/basic-bars/",
   "tags" : "image tween"
 }, {
-  "id" : "org.cutjs.asteroids",
-  "name" : "Asteroids, +P2.js Physics",
+  "id" : "org.cutjs.p2js-asteroids",
+  "name" : "P2.js Asteroids",
   "index" : "http://piqnt.github.io/cutjs/examples/p2js-asteroids/",
+  "tags" : "game physics p2.js"
+}, {
+  "id" : "org.cutjs.p2js-suspension",
+  "name" : "P2.js Suspension",
+  "index" : "http://piqnt.github.io/cutjs/examples/p2js-suspension/",
   "tags" : "game physics p2.js"
 } ]
