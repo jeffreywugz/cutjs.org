@@ -1,49 +1,41 @@
 [ {
   "id" : "org.cutjs.row",
   "name" : "Row",
-  "index" : "http://piqnt.github.io/cutjs/examples/row/",
-  "source" : "https://github.com/piqnt/cutjs/tree/examples/row-dynamic/",
+  "index" : "http://piqnt.github.io/cutjs/examples/basic-row/",
   "tags" : "row tween"
 }, {
   "id" : "org.cutjs.row-fix",
   "name" : "Row, Fixed",
-  "index" : "http://piqnt.github.io/cutjs/examples/row-fix/",
-  "source" : "https://github.com/piqnt/cutjs/tree/examples/row-static/",
+  "index" : "http://piqnt.github.io/cutjs/examples/basic-row-fix/",
   "tags" : "row tween"
 }, {
   "id" : "org.cutjs.grid",
   "name" : "Column x Row",
-  "index" : "http://piqnt.github.io/cutjs/examples/grid/",
-  "source" : "https://github.com/piqnt/cutjs/tree/examples/grid/",
+  "index" : "http://piqnt.github.io/cutjs/examples/basic-grid/",
   "tags" : "row column tween"
 }, {
   "id" : "org.cutjs.number",
   "name" : "Number",
-  "index" : "http://piqnt.github.io/cutjs/examples/number/",
-  "source" : "https://github.com/piqnt/cutjs/tree/examples/number/",
+  "index" : "http://piqnt.github.io/cutjs/examples/basic-number/",
   "tags" : "string image box"
 }, {
   "id" : "org.cutjs.tile",
   "name" : "Tile",
-  "index" : "http://piqnt.github.io/cutjs/examples/tile/",
-  "source" : "https://github.com/piqnt/cutjs/tree/examples/tile/",
+  "index" : "http://piqnt.github.io/cutjs/examples/basic-tile/",
   "tags" : "image tween"
 }, {
   "id" : "org.cutjs.stretch",
   "name" : "Stretch",
-  "index" : "http://piqnt.github.io/cutjs/examples/stretch/",
-  "source" : "https://github.com/piqnt/cutjs/tree/examples/stretch/",
+  "index" : "http://piqnt.github.io/cutjs/examples/basic-stretch/",
   "tags" : "image tween"
 }, {
   "id" : "org.cutjs.bars",
   "name" : "Bars",
-  "index" : "http://piqnt.github.io/cutjs/examples/bars/",
-  "source" : "https://github.com/piqnt/cutjs/tree/examples/bars/",
+  "index" : "http://piqnt.github.io/cutjs/examples/basic-bars/",
   "tags" : "image tween"
 }, {
   "id" : "org.cutjs.asteroids",
-  "name" : "Asteroids",
-  "index" : "http://piqnt.github.io/cutjs/examples/asteroids/",
-  "source" : "https://github.com/piqnt/cutjs/tree/examples/asteroids/",
+  "name" : "Asteroids, +P2.js Physics",
+  "index" : "http://piqnt.github.io/cutjs/examples/p2js-asteroids/",
   "tags" : "game physics p2.js"
 } ]
