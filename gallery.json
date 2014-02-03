@@ -41,6 +41,12 @@
   "tags" : "image tween",
   "type" : "example"
 }, {
+  "id" : "org.cutjs.orbit",
+  "name" : "Orbit",
+  "index" : "http://piqnt.github.io/cutjs/examples/game-orbit/",
+  "tags" : "game",
+  "type" : "example"
+}, {
   "id" : "org.cutjs.p2js-asteroids",
   "name" : "P2.js Asteroids",
   "index" : "http://piqnt.github.io/cutjs/examples/p2js-asteroids/",
