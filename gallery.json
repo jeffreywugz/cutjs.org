@@ -41,6 +41,12 @@
   "tags" : "image tween",
   "type" : "example"
 }, {
+  "id" : "org.cutjs.tictactoe",
+  "name" : "Tic Tac Toe",
+  "index" : "http://piqnt.github.io/cutjs/examples/game-tictactoe/",
+  "tags" : "game",
+  "type" : "example"
+}, {
   "id" : "org.cutjs.orbit",
   "name" : "Orbit",
   "index" : "http://piqnt.github.io/cutjs/examples/game-orbit/",
@@ -62,6 +68,7 @@
   "id" : "com.piqnt.o",
   "name" : "O! +Source",
   "index" : "http://piqnt.com/o/",
+  "source" : "https://github.com/piqnt/cutjs/tree/master/examples/game-o",
   "tags" : "game",
   "type" : "project"
 }, {
