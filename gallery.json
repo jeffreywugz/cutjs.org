@@ -47,6 +47,12 @@
   "tags" : "game",
   "type" : "example"
 }, {
+  "id" : "org.cutjs.aero",
+  "name" : "Tic Tac Toe",
+  "index" : "http://piqnt.github.io/cutjs/examples/game-aero/",
+  "tags" : "game",
+  "type" : "example"
+}, {
   "id" : "org.cutjs.orbit",
   "name" : "Orbit",
   "index" : "http://piqnt.github.io/cutjs/examples/game-orbit/",
