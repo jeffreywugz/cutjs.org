@@ -54,7 +54,7 @@
   "type" : "example"
 }, {
   "id" : "org.cutjs.breakout",
-  "name" : "Aero",
+  "name" : "Breakout",
   "index" : "http://piqnt.github.io/cutjs/examples/game-breakout/",
   "tags" : "game",
   "type" : "example"
