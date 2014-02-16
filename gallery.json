@@ -48,8 +48,14 @@
   "type" : "example"
 }, {
   "id" : "org.cutjs.aero",
-  "name" : "Tic Tac Toe",
+  "name" : "Aero",
   "index" : "http://piqnt.github.io/cutjs/examples/game-aero/",
+  "tags" : "game",
+  "type" : "example"
+}, {
+  "id" : "org.cutjs.breakout",
+  "name" : "Aero",
+  "index" : "http://piqnt.github.io/cutjs/examples/game-breakout/",
   "tags" : "game",
   "type" : "example"
 }, {
