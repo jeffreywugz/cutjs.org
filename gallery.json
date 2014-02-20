@@ -1,79 +1,73 @@
 [ {
   "id" : "org.cutjs.row",
   "name" : "Row",
-  "index" : "http://piqnt.github.io/cutjs/examples/basic-row/",
+  "index" : "http://play.cutjs.org/examples/basic-row/",
   "tags" : "row tween",
   "type" : "example"
 }, {
   "id" : "org.cutjs.row-fix",
   "name" : "Row, Fixed",
-  "index" : "http://piqnt.github.io/cutjs/examples/basic-row-fix/",
+  "index" : "http://play.cutjs.org/examples/basic-row-fix/",
   "tags" : "row tween",
   "type" : "example"
 }, {
   "id" : "org.cutjs.grid",
   "name" : "Column x Row",
-  "index" : "http://piqnt.github.io/cutjs/examples/basic-grid/",
+  "index" : "http://play.cutjs.org/examples/basic-grid/",
   "tags" : "row column tween",
   "type" : "example"
 }, {
   "id" : "org.cutjs.number",
   "name" : "Number",
-  "index" : "http://piqnt.github.io/cutjs/examples/basic-number/",
+  "index" : "http://play.cutjs.org/examples/basic-number/",
   "tags" : "string image box",
   "type" : "example"
 }, {
   "id" : "org.cutjs.tile",
   "name" : "Tile",
-  "index" : "http://piqnt.github.io/cutjs/examples/basic-tile/",
+  "index" : "http://play.cutjs.org/examples/basic-tile/",
   "tags" : "image tween",
   "type" : "example"
 }, {
   "id" : "org.cutjs.stretch",
   "name" : "Stretch",
-  "index" : "http://piqnt.github.io/cutjs/examples/basic-stretch/",
+  "index" : "http://play.cutjs.org/examples/basic-stretch/",
   "tags" : "image tween",
   "type" : "example"
 }, {
   "id" : "org.cutjs.bars",
   "name" : "Bars",
-  "index" : "http://piqnt.github.io/cutjs/examples/basic-bars/",
+  "index" : "http://play.cutjs.org/examples/basic-bars/",
   "tags" : "image tween",
   "type" : "example"
 }, {
   "id" : "org.cutjs.tictactoe",
   "name" : "Tic Tac Toe",
-  "index" : "http://piqnt.github.io/cutjs/examples/game-tictactoe/",
+  "index" : "http://play.cutjs.org/examples/game-tictactoe/",
   "tags" : "game",
   "type" : "example"
 }, {
   "id" : "org.cutjs.aero",
   "name" : "Aero",
-  "index" : "http://piqnt.github.io/cutjs/examples/game-aero/",
-  "tags" : "game",
-  "type" : "example"
-}, {
-  "id" : "org.cutjs.breakout",
-  "name" : "Breakout",
-  "index" : "http://piqnt.github.io/cutjs/examples/game-breakout/",
+  "index" : "http://play.cutjs.org/examples/game-aero/",
   "tags" : "game",
   "type" : "example"
 }, {
   "id" : "org.cutjs.orbit",
   "name" : "Orbit",
-  "index" : "http://piqnt.github.io/cutjs/examples/game-orbit/",
+  "index" : "http://play.cutjs.org/examples/game-orbit/",
   "tags" : "game",
   "type" : "example"
 }, {
   "id" : "org.cutjs.p2js-asteroids",
   "name" : "P2.js Asteroids",
-  "index" : "http://piqnt.github.io/cutjs/examples/p2js-asteroids/",
+  "index" : "http://play.cutjs.org/examples/p2js-asteroids/",
   "tags" : "game physics p2.js",
   "type" : "example"
 }, {
   "id" : "org.cutjs.p2js-suspension",
   "name" : "P2.js Suspension",
-  "index" : "http://piqnt.github.io/cutjs/examples/p2js-suspension/",
+  "index" : "http://play.cutjs.org/examples/p2js-suspension/",
   "tags" : "game physics p2.js",
   "type" : "example"
 }, {
