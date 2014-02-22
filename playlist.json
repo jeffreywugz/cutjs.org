@@ -71,6 +71,12 @@
   "tags" : "game physics p2.js",
   "type" : "example"
 }, {
+  "id" : "com.piqnt.breakout",
+  "name" : "Breaking Out",
+  "index" : "http://piqnt.com/breakout/",
+  "tags" : "game",
+  "type" : "project"
+}, {
   "id" : "com.piqnt.o",
   "name" : "O! +Source",
   "index" : "http://piqnt.com/o/",
