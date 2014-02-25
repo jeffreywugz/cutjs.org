@@ -23,6 +23,12 @@
   "tags" : "string image box",
   "type" : "example"
 }, {
+  "id" : "org.cutjs.drawing",
+  "name" : "Drawing",
+  "index" : "http://play.cutjs.org/examples/basic-drawing/",
+  "tags" : "image drawing",
+  "type" : "example"
+}, {
   "id" : "org.cutjs.tile",
   "name" : "Tile",
   "index" : "http://play.cutjs.org/examples/basic-tile/",
