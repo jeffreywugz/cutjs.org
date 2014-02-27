@@ -66,16 +66,16 @@
   "type" : "example"
 }, {
   "id" : "org.cutjs.p2js-asteroids",
-  "name" : "P2.js Asteroids",
+  "name" : "Asteroids",
   "index" : "http://play.cutjs.org/examples/p2js-asteroids/",
   "tags" : "game physics p2.js",
   "type" : "example"
-}, {
-  "id" : "org.cutjs.p2js-suspension",
-  "name" : "P2.js Suspension",
-  "index" : "http://play.cutjs.org/examples/p2js-suspension/",
-  "tags" : "game physics p2.js",
-  "type" : "example"
+//}, {
+//  "id" : "org.cutjs.p2js-suspension",
+//  "name" : "P2.js Suspension",
+//  "index" : "http://play.cutjs.org/examples/p2js-suspension/",
+//  "tags" : "game physics p2.js",
+//  "type" : "example"
 }, {
   "id" : "com.piqnt.breakout",
   "name" : "Breaking Out",
