@@ -1,4 +1,10 @@
 [ {
+  "id" : "org.cutjs.pinwheel",
+  "name" : "Pinwheel",
+  "index" : "http://play.cutjs.org/examples/basic-pinwheel/",
+  "tags" : "image tween",
+  "type" : "example"
+}, {
   "id" : "org.cutjs.row",
   "name" : "Row",
   "index" : "http://play.cutjs.org/examples/basic-row/",
@@ -70,12 +76,6 @@
   "index" : "http://play.cutjs.org/examples/p2js-asteroids/",
   "tags" : "game physics p2.js",
   "type" : "example"
-//}, {
-//  "id" : "org.cutjs.p2js-suspension",
-//  "name" : "P2.js Suspension",
-//  "index" : "http://play.cutjs.org/examples/p2js-suspension/",
-//  "tags" : "game physics p2.js",
-//  "type" : "example"
 }, {
   "id" : "com.piqnt.breakout",
   "name" : "Breaking Out",
