@@ -23,16 +23,16 @@
   "tags" : "row column tween",
   "type" : "example"
 }, {
-  "id" : "org.cutjs.number",
-  "name" : "Number",
-  "index" : "http://play.cutjs.org/examples/basic-number/",
-  "tags" : "string image box",
-  "type" : "example"
-}, {
   "id" : "org.cutjs.drawing",
   "name" : "Drawing",
   "index" : "http://play.cutjs.org/examples/basic-drawing/",
   "tags" : "image drawing",
+  "type" : "example"
+}, {
+  "id" : "org.cutjs.number",
+  "name" : "Number",
+  "index" : "http://play.cutjs.org/examples/basic-number/",
+  "tags" : "string image box",
   "type" : "example"
 }, {
   "id" : "org.cutjs.tile",
@@ -76,6 +76,18 @@
   "index" : "http://play.cutjs.org/examples/p2js-asteroids/",
   "tags" : "game physics p2.js",
   "type" : "example"
+}, {
+  "id" : "org.cutjs.samegame",
+  "name" : "SameGame",
+  "index" : "http://play.cutjs.org/examples/game-samegame/",
+  "tags" : "game physics p2.js",
+  "type" : "example"
+}, {
+  "id" : "org.cutjs.p2js-suspension",
+  "name" : "P2.js Suspension",
+  "index" : "http://play.cutjs.org/examples/p2js-suspension/",
+  "tags" : "game physics p2.js",
+  "type" : ""
 }, {
   "id" : "com.piqnt.breakout",
   "name" : "Breaking Out",
